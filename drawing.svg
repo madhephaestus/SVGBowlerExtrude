@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="138.27041"
+     inkscape:cx="128.16889"
      inkscape:cy="70.930251"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1238"
      inkscape:window-height="972"
@@ -59,22 +59,19 @@
      style="display:inline"
      transform="translate(-42.956995,-123.75461)">
     <path
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       d="m 225.01367,532.55664 v 10.68359 h 6.32813 q 3.18359,0 4.70703,-1.30859 1.54297,-1.32812 1.54297,-4.04297 0,-2.73437 -1.54297,-4.02344 -1.52344,-1.30859 -4.70703,-1.30859 z"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 69.534866,140.90561 v 2.8267 h 1.674318 q 0.842325,0 1.245401,-0.34623 0.408245,-0.3514 0.408245,-1.0697 0,-0.72347 -0.408245,-1.06454 -0.403076,-0.34623 -1.245401,-0.34623 z"
        id="path845"
-       transform="scale(0.26458333)"
        inkscape:connector-curvature="0" />
     <path
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       d="m 225.01367,520.56445 v 8.78907 h 5.83985 q 2.89062,0 4.29687,-1.07422 1.42578,-1.09375 1.42578,-3.32032 0,-2.20703 -1.42578,-3.30078 -1.40625,-1.09375 -4.29687,-1.09375 z"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 69.534866,137.73268 v 2.32544 h 1.545127 q 0.76481,0 1.13688,-0.28422 0.377238,-0.28939 0.377238,-0.8785 0,-0.58395 -0.377238,-0.87334 -0.37207,-0.28938 -1.13688,-0.28938 z"
        id="path843"
-       transform="scale(0.26458333)"
        inkscape:connector-curvature="0" />
     <path
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       d="m 263.45117,533.5918 q -0.0391,-2.94922 -1.66015,-4.70703 -1.60157,-1.75782 -4.25782,-1.75782 -3.00781,0 -4.82422,1.69922 -1.79687,1.69922 -2.07031,4.78516 z"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 79.704788,141.1795 q -0.01034,-0.78032 -0.439248,-1.24541 -0.423749,-0.46509 -1.126548,-0.46509 -0.795817,0 -1.276409,0.44959 -0.475421,0.44958 -0.547769,1.26607 z"
        id="path829"
-       transform="scale(0.26458333)"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -83,8 +80,8 @@
      inkscape:label="outsides">
     <g
        aria-label="Ben "
-       transform="matrix(0.26458333,0,0,0.26458333,-42.956996,-123.75461)"
-       style="display:inline;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-32.956996,-123.75461)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        id="flowRoot817">
       <path
          d="m 221.06836,517.32227 h 10.07812 q 4.51172,0 6.95313,1.875 2.44141,1.875 2.44141,5.33203 0,2.67578 -1.25,4.25781 -1.25,1.58203 -3.67188,1.97266 2.91016,0.625 4.51172,2.61718 1.62109,1.97266 1.62109,4.94141 0,3.90625 -2.65625,6.03516 -2.65625,2.1289 -7.55859,2.1289 h -10.46875 z"
