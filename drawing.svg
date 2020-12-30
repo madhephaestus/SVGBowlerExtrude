@@ -77,7 +77,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="outsides">
+     inkscape:label="outsides"
+     style="display:inline">
     <g
        aria-label="Ben "
        transform="matrix(0.26458333,0,0,0.26458333,-32.956996,-123.75461)"
