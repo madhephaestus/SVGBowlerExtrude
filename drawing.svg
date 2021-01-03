@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="133.35831"
-     inkscape:cy="3.4644228"
+     inkscape:cy="-16.738628"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1200"
      inkscape:window-height="972"
@@ -54,14 +54,35 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="4-star">
+    <path
+       sodipodi:type="star"
+       style="fill:#e3fbb4;fill-opacity:1;stroke:#e305b4;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path826"
+       sodipodi:sides="5"
+       sodipodi:cx="38.219543"
+       sodipodi:cy="16.634785"
+       sodipodi:r1="90.078255"
+       sodipodi:r2="22.519564"
+       sodipodi:arg1="0.23202509"
+       sodipodi:arg2="0.86034362"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 125.88395,37.348173 52.906285,33.706116 45.609731,106.40938 26.522195,35.878038 -44.877472,51.405145 16.303443,11.456438 -20.527424,-51.650541 36.371997,-5.8088629 85.008936,-60.338228 58.993797,7.9421946 Z"
+       inkscape:transform-center-x="-2.2836931"
+       inkscape:transform-center-y="6.4007886" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="3-boarder">
     <path
-       style="display:inline;fill:#5dfbb4;fill-opacity:1;stroke:#e2c700;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 43.089287,123.8869 h 74.083333 v 38.55357 H 43.089287 Z"
+       style="display:inline;fill:#5dfbb4;fill-opacity:1;stroke:#e2c700;stroke-width:0.10807674;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 19.831983,9.2748349 H 48.903272 V 25.667906 H 19.831983 Z"
        id="rect815"
-       inkscape:connector-curvature="0"
-       transform="translate(-42.956996,-123.75461)" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
